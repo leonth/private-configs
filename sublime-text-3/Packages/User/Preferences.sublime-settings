@@ -4,9 +4,9 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Vintage"
 	],
 	"translate_tabs_to_spaces": true,
-	"word_wrap": "true"
+	"word_wrap": "true",
+	"auto_complete_triggers": [{"selector": "source.python", "characters": "."}]
 }
