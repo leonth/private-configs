@@ -1,0 +1,9 @@
+{
+	"installed_packages":
+	[
+		"GitGutter",
+		"MarkdownEditing",
+		"SublimePythonIDE",
+		"TomDoc"
+	]
+}

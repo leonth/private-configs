@@ -1,0 +1,10 @@
+{
+    // make python_open_documentation command output in a view or in the output
+    // panel if false
+    "open_pydoc_in_view": true,
+
+
+    // Linter settings
+    "python_linter_mark_style": "none", // "none" or "outline"
+    "pep8_ignore": ["E501", "E401", "W293"]
+}
